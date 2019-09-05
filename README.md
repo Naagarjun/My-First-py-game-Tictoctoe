@@ -1,2 +1,2 @@
 # My-First-py-game-Tictoctoe
-tictoctoe using ide
+tictoctoe using IDLE
